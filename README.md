@@ -311,36 +311,6 @@ SELECT * FROM Incomplete_Rides_Reason;
 
 ---
 
-## 📥 Ola DA Project SQL.sql File
-
-This project includes an `Ola DA Project SQL.sql` file containing all the SQL queries and view creation statements mentioned in this README. To use this file:
-
-1. **Download the File**:
-
-   - Ensure you have the `Ola DA Project SQL.sql` file in your local directory.
-
-2. **Open in MySQL Workbench**:
-
-   - Open MySQL Workbench and connect to your database server.
-   - Go to the "File" menu and select "Open SQL Script."
-   - Choose the `Ola DA Project SQL.sql` file.
-
-3. **Run the Script**:
-
-   - Click on the "Execute" button (lightning icon) to run the script.
-
-4. **Verify the Views**:
-   - Use queries such as `SELECT * FROM <view_name>` to verify that the views are created successfully.
-
-This file simplifies setting up the project and ensures all queries and views are executed in a single step.
-
-## File Details 📁
-
-- **File Name**: `Ola DA Project SQL.sql` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project%20SQL.sql)
-- **Size**: `4 KB`
-
-- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
-- **Size**: `15.5 MB`
 
 </details>
 
@@ -493,19 +463,8 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
 - Custom slicers for dynamic filtering.
 - KPIs displayed in real-time visuals.
 
-## How to Use 📋
 
-1. Download the Power BI file: `Ola DA Project.pbix`
-2. Open the file in **Power BI Desktop**.
-3. Explore the dashboards and insights interactively.
 
-## File Details 📁
-
-- **File Name**: `Ola DA Project.pbix` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Ola%20DA%20Project.pbix)
-- **Size**: `3.96 MB`
-
-- **File Name**: `Bookings.csv` [Download File](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/Bookings.csv)
-- **Size**: `15.5 MB`
 
 </details>
 
